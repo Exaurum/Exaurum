@@ -17,7 +17,7 @@
 </div> <br>
 
 ## 📚 About Me
-- 🌱  I am a beginner programmer and am actively studying Nodejs end React.
+- 🌱  I am a beginner programmer and am actively studying Nodejs.
 - 📝  I always strive to learn new things and improve my skills.
 - 📫 Reach me by [email](mailto:hello@codeexa.ru)
 
@@ -25,11 +25,8 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="js" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="html" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="node" width="50" height="50"/>&nbsp;
 
