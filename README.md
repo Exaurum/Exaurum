@@ -34,8 +34,8 @@
 I'm currently developing my own project
 
 ## 🔥 My Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Exaurum&theme=dark&background=000000)](https://git.io/streak-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exaurum&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Exaurum&theme=transparent&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exaurum&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Exaurum/Exaurum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
