@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Exaurum/Exaurum/blob/main/image/junior.jpg" width="100%" />
+  <img src="https://github.com/Exaurum/Exaurum/blob/main/image/junior.png" width="100%" />
 </div>
 
 <div align="center">
