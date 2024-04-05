@@ -1,37 +1,36 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="header" align="center">
-    <h1>
-      Hi there, I'm  Igor
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    </h1>
-    <h3>Junior Developer</h3>
+<div align="center">
+    <h1>Hi there, I'm Igor</h1>
+    <h3>Junior Backend Developer</h3>
 </div>
 
-<div id="socials" align="center">
-  <a>
+<div align="center">
+  <a href="https://t.me/your_telegram_username">
    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-</div> <br>
+</div>
 
 ## 📚 About Me
-- 🌱  I am a beginner programmer and am actively studying Nodejs.
-- 📝  I always strive to learn new things and improve my skills.
+- 🌱 I'm a beginner programmer focusing on backend development with Node.js.
+- 📝 I'm enthusiastic about learning new technologies and continuously improving my skills.
 - 📫 Reach me by [email](mailto:hello@codeexa.ru)
 
-## 🛠️ Languages and tools
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="js" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="html" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="git" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" width="50" height="50"/>&nbsp;
+## 🛠️ Languages and Tools
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="node" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" width="50" height="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" width="50" height="50"/>&nbsp;
 
 ## 🚀 My Projects
-I'm currently developing my own project
+- **Project Name**: Description of the project. [Link to GitHub](https://github.com/your_username/project_repository)
+- **Project Name**: Description of the project. [Link to GitHub](https://github.com/your_username/project_repository)
 
 ## 🔥 My Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Exaurum&theme=transparent&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)<br>
