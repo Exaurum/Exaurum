@@ -28,9 +28,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" width="50" height="50"/>&nbsp;
 
-## 🚀 My Projects
-- **Project Name**: Description of the project. [Link to GitHub](https://github.com/your_username/project_repository)
-- **Project Name**: Description of the project. [Link to GitHub](https://github.com/your_username/project_repository)
+<!-- ## 🚀 My Projects
+- **Project Name**: Description of the project. [Link to GitHub](https://github.com/your_username/project_repository) -->
 
 ## 🔥 My Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Exaurum&theme=transparent&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)<br>
