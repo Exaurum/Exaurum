@@ -16,7 +16,7 @@
 ## 📚 About Me
 - 🌱 I'm a beginner programmer focusing on backend development with Node.js.
 - 📝 I'm enthusiastic about learning new technologies and continuously improving my skills.
-- 📫 Reach me by [email](mailto:hello@codeexa.ru)
+
 
 ## 🛠️ Languages and Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" width="50" height="50"/>&nbsp;
@@ -30,6 +30,9 @@
 
 <!-- ## 🚀 My Projects
 - **Project Name**: Description of the project. [Link to GitHub](https://github.com/your_username/project_repository) -->
+
+## 📫 Contact
+Reach me by [email](mailto:hello@codeexa.ru)
 
 ## 🔥 My Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Exaurum&theme=transparent&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)<br>
