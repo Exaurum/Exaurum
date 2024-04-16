@@ -1,12 +1,11 @@
-<div align="center">
+<div align="center" style="margin-bottom:2em">
   <img src="https://github.com/Exaurum/Exaurum/blob/main/image/junior.png" width="100%" />
 </div>
 
 <div align="center">
     <h1>Hi there, I'm Igor</h1>
-    <h3>Junior Backend Developer</h3>
 </div>
-
+<br>
 <div align="center">
   <a href="https://t.me/NavigatorExa">
    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
