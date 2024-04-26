@@ -45,8 +45,8 @@ Reach me by [emailto](mailto:hello@codeexa.ru)
   <img src="https://github-readme-stats.vercel.app/api?username=Exaurum&show_icons=true" />
 </picture>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Exaurum&layout=compact&theme=tokyonight&repo=bot_question_mix)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Exaurum&layout=compact&theme=tokyonight&repo=pdf_to_images)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Exaurum&layout=compact&theme=tokyonight&repo=test-bot)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 Exaurum/Exaurum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
