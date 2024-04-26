@@ -18,7 +18,7 @@
 
 
 ## 📫 Contact
-Reach me by [emailto](mailto:hello@codeexa.ru)
+Reach me by [email](mailto:hello@codeexa.ru)
 
 
 ## 🛠️ Languages and Tools
