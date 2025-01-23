@@ -7,7 +7,7 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://t.me/NavigatorExa">
+  <a href="https://t.me/Mixcreo">
    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
