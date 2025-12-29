@@ -5,7 +5,9 @@
 <div align="center">
   <h1>🧬 Agentic Systems Engineer</h1>
   <p><b>Работаю с автономными AI-системами, где мышление и действие строго разделены</b></p>
-  [![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=flat&logo=telegram)](https://t.me/codeexa_ru)
+  <a href="https://t.me/codeexa_ru">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-Contact-blue?style=flat&logo=telegram" />
+  </a>
 </div>
 
 ---
